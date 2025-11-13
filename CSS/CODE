@@ -1,0 +1,19 @@
+#countlabel{
+    font-size: 100px;
+    text-align: center;
+    display: block;
+}
+#section{
+    display: block;
+    text-align: center;
+}
+.buttons{
+    background-color: red;
+    font-size: 30px;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.buttons:hover{
+    background-color: pink;
+}
